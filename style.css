@@ -1,0 +1,47 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: #f6e4d1;
+    height: 100%;
+    width: 100%;
+}
+#calculator-container {
+    display: grid;
+    width: 30%;
+    height: 80%;
+    margin: auto;
+    margin-top: 5%;
+    border: 2px solid #FFA5AB;
+    background-color: #A53860;
+}
+
+#number-screen {
+    width: 90%;
+    height: 100%;
+    background-color: #FFFFFF;
+}
+
+#buttons {
+
+}
+
+.change-button {
+
+}
+
+#digits {
+
+}
+
+.digit-button {
+
+}
+
+#operator {
+
+}
+
+.operator-button
